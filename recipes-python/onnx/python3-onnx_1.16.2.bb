@@ -5,7 +5,7 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=3b83ef96387f14655fc854ddc3c6bd57"
 DEPENDS = " \
 	python3-numpy-native python3-protobuf-native \
 	python3-pytest-runner-native python3-cmake-native \
-	python3-pybind11-native python3-pybind11 protobuf \
+	python3-pybind11-native python3-pybind11 protobuf protobuf-native \
 "
 
 PYPI_PACKAGE = "onnx"
